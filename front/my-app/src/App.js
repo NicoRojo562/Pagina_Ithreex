@@ -5,19 +5,19 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1>bienvenidos a la pagina de ithreex</h1>
+        <h2>bienvenidos a la pagina de ithreex</h2>
+        <h3>bienvenidos a la pagina de ithreex</h3>
       </header>
+      <body className="app-body">
+        <h4>la concha de tu madre all boys</h4>
+        <button>presione aqui</button>
+      </body>
+      <footer>
+        <h4>
+          este es el footer
+        </h4>
+      </footer>
     </div>
   );
 }
