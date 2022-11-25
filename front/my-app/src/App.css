@@ -23,6 +23,7 @@ code {
   background-position: center center;
   background-size: cover;
   background-attachment: fixed;
+  background-image: url('./imagenes/backround1.jpeg');
   width: 100%;
   min-height: 100vh;
   margin: 0 auto;
@@ -100,9 +101,9 @@ li{
 .boton{
     display: inline-block;
     border-radius: 4px;
-    background-color: #a4a4f7;
+    background-color: #e9e9f6;
     border: none;
-    color: #FFFFFF;
+    color: #0b0909;
     text-align: center;
     font-size: 28px;
     padding: 20px;
